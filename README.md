@@ -14,6 +14,8 @@ Welcome to the **Awesome Project** repository!
 ## How to Use
 
 To check the status of your git repository, use the following command
+```bash
+git status
 
 ## To-Do List
 
