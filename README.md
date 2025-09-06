@@ -1,12 +1,25 @@
 # C-Programming-Lab.
 In this repository, we are saving c-program
-<br/>
-- Python
+# Project Title
 
-- JavaScript
+Welcome to the **Awesome Project** repository!
+~~This line is outdated~~
 
-- C++
+## Features
 
-- Go
+- Easy to understand
+- Beginner-friendly
+- Open-source
 
-- Rust
+## How to Use
+
+To check the status of your git repository, use the following command
+
+## To-Do List
+
+- [x] Add a heading
+- [x] Add bold and italic text
+- [x] Add a strikethrough
+- [x] Add a code block
+- [x] Add a task list
+
